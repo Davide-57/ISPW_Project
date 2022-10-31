@@ -1,0 +1,9 @@
+- L'utente non loggato ha come UC quella di visualizzare i dettagli di un prodotto in quanto può essere interessato a:
+	- sapere che prodotti ci sono in vendita prima di registrarsi come acquirente
+	- sapere a quanto viene venduto un articolo che vuole vendere anche lui, quindi prima di registrarsi come venditore
+In altre parole, visualizzare gli annunci può servire per capire se si è interessati alla registrazione e non alla funzionalità di
+registrazione (infatti non la metto in extend con registrazione).
+
+
+
+- 
