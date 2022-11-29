@@ -4776,12 +4776,12 @@
 										"$ref": "AAAAAAGELpi8OX00I0o="
 									},
 									"font": "Arial;13;0",
-									"left": 525,
-									"top": 282,
+									"left": 512,
+									"top": 281,
 									"width": 55.65625,
 									"height": 13,
-									"alpha": -4.483258488351004,
-									"distance": 16.55294535724685,
+									"alpha": -4.214311861044891,
+									"distance": 28.231188426986208,
 									"hostEdge": {
 										"$ref": "AAAAAAGELpi8OX02w18="
 									},
@@ -5167,12 +5167,12 @@
 										"$ref": "AAAAAAGELt82l9xFcso="
 									},
 									"font": "Arial;13;0",
-									"left": 352,
-									"top": 385,
+									"left": 336,
+									"top": 391,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.4141949833920822,
-									"distance": 17.204650534085253,
+									"alpha": -3.981201326587829,
+									"distance": 22.360679774997898,
 									"hostEdge": {
 										"$ref": "AAAAAAGELt82mNxHGrs="
 									},
@@ -6327,12 +6327,12 @@
 										"$ref": "AAAAAAGELwm2j4KqrOM="
 									},
 									"font": "Arial;13;0",
-									"left": 848,
+									"left": 863,
 									"top": 927,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 2.5242293997801384,
-									"distance": 22.360679774997898,
+									"alpha": 2.6252988792304404,
+									"distance": 38.118237105091836,
 									"hostEdge": {
 										"$ref": "AAAAAAGELwm2kIKs3o4="
 									},
@@ -8968,9 +8968,9 @@
 							"font": "Arial;20;0",
 							"left": 232,
 							"top": 1200,
-							"width": 689,
+							"width": 761,
 							"height": 56,
-							"text": "* Comprare un prodotto con funzione \"Carrello Premium\" include Login"
+							"text": "* <<Comprare un prodotto con funzione \"Carrello Premium\">>  include  <<Login>>"
 						}
 					]
 				},
