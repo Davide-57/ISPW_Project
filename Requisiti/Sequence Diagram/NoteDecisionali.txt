@@ -1,3 +1,7 @@
 1) Con visualizzaAnnuncio un acquirente può applicare il filtro, quindi con questa operazione prevedo sia la visualizzazione che il filtraggio degli
 annunci considerando l'assenza di filtri come un filtro.
 
+2) Ho consapevolemnte semplificato Login e EffettuarePagamento in quanto non sono gli UC centrali del diagramma.
+
+
+
