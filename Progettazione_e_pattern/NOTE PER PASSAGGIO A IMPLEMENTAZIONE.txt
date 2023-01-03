@@ -1,0 +1,28 @@
+PATTERN SINGLETON:
+- Utente
+- DB
+
+
+
+Interfaccia o classe astratta Pagamento con classi concrete:
+-PagamentoPerAcquisto
+-PagamentoPerPassaggioPremium
+-PagamentoPerCarrelloPremium
+
+
+
+Per il momento non lo metto però potrebbe essere una bella idea inserire le Wikipedia API nel caso d'uso mettendo una Boundary
+nel VOPC applicato a BCE tra attore Wikipedia e controller ComprareProdotto
+
+
+
+Dato che per come è attualmente scritto non ha senso la notifica al venditore (e al corriere), sto pensando di implementare
+un'interfaccia basic per il venditore che implementerà un Observer sui suoi annunci. Quando uno viene bloccato verrà
+eseguito un aggiornamento nella sua interfaccia con modalità push model.
+L'interfaccia potrebbe essere uguale a home.fxml ma senza la lista (oppure si... con un filtro fatto sullo stato
+dell'annuncio... effettivamente se riesco a implementare i filtri è semplice riportarlo al venditore)
+
+
+
+
+Potrei inserire nella classe Card la lettura del file immagine per inserire l'immagine dell'annuncio nel suo dettaglio.
